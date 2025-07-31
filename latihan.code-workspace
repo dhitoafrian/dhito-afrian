@@ -1,0 +1,16 @@
+{
+  "folders": [
+	{
+		"path": "../latihan"
+	},
+	{
+		"path": "../finance-app"
+	},
+	{
+		"path": "."
+	}
+],
+  "settings": {
+    "liveServer.settings.multiRootWorkspaceName": "latihan"
+  }
+}
